@@ -1,2 +1,2 @@
-#!/Bin/bash
+#!/bIn/Bash
 chmod ug+x,o+r hello
