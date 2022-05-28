@@ -1,3 +1,3 @@
-#!/Bin/bash
+#!/bin/bash
 echo $(pwd)
 
