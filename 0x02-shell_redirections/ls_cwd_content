@@ -1,0 +1,25 @@
+total 56
+drwxr-xr-x 2 root root 4096 Jun  1 19:56 .
+drwxr-xr-x 7 root root  278 Jun  1 19:41 ..
+-rw-r--r-- 1 root root   14 Jun  1 19:51 '\*$?*****
+-rwxr--r-- 1 root root   34 Jun  1 19:01 0-hello_world
+-rw-r--r-- 1 root root    0 May 30 16:26 0-hello_world~
+-rw-r--r-- 1 root root   15 May 31 23:34 #1-confused_smiley#
+lrwxrwxrwx 1 root root   22 May 31 23:33 .#1-confused_smiley -> root@4a39da1e4cac.6883
+-rw-r--r-- 1 root root    0 May 31 23:27 1-confused_smiley
+-rw-r--r-- 1 root root   12 May 31 23:56 #2-hellofile#
+-rwxr--r-- 1 root root   28 Jun  1 19:06 2-hellofile
+-rwxr--r-- 1 root root   39 Jun  1 19:11 3-twofiles
+-rw-r--r-- 1 root root    0 Jun  1 19:10 3-twofiles~
+-rwxr--r-- 1 root root   29 Jun  1 19:14 4-lastlines
+-rw-r--r-- 1 root root    0 Jun  1 19:13 4-lastlines~
+-rwxr--r-- 1 root root   29 Jun  1 19:27 5-firstlines
+-rw-r--r-- 1 root root    0 Jun  1 19:26 5-firstlines~
+-rwxr--r-- 1 root root   49 Jun  1 19:36 6-third_line
+-rwxr--r-- 1 root root   36 Jun  1 19:32 6-third_line~
+-rwxr--r-- 1 root root   54 Jun  1 19:50 7-file
+-rw-r--r-- 1 root root    0 Jun  1 19:39 7-file~
+-rwxr--r-- 1 root root   36 Jun  1 19:55 8-cwd_state
+-rw-r--r-- 1 root root    0 Jun  1 19:53 8-cwd_state~
+-rw-r--r-- 1 root root    0 Jun  1 19:56 ls_cwd_content
+-rw-r--r-- 1 root root   29 May 30 16:27 README.md
